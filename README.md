@@ -21,7 +21,7 @@ Answering a question query for filtering, groupby with agg for grouped compariso
 Repository Structure
 .
 ├── Exploratory_Data_Analysis_Ibukun_Egwuogu.ipynb   Full replication notebook, commented throughout
-├── EDA_Documentation.docx                           Detailed written documentation of every topic
+├── Ibukun Egwuogu_EDA_Documentation.docx            Detailed written documentation of every topic
 ├── coaster_db.csv                                   Dataset used in the analysis
 └── README.md                                        This file
 
